@@ -1,2 +1,3 @@
-# hostelapp
-Coming soon page for hostelapp
+# HostelApp
+
+A simple coming soon page for hostelapp.
